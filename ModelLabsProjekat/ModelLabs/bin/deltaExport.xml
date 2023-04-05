@@ -1,0 +1,112 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="8">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="REASON" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="200000000_RS" />
+            <Property id="IDOBJ_NAME" value="Reason01" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_RS01" />
+            <Property id="REASON_CODE" value="CODE_RS01" />
+            <Property id="REASON_TEXT" value="TEXT_RS01" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="PROCESS" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="100000000_PR" />
+            <Property id="IDOBJ_NAME" value="Process01" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_PR01" />
+            <Property id="PROCESS_CLASSFICATIONTYPE" value="CL_Type_PR01" />
+            <Property id="PROCESS_PROCESSTYPE" value="PR_Type_PR01" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="MARKETDOCUMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="300000000_MD" />
+            <Property id="IDOBJ_NAME" value="MDOC01" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_MDOC01" />
+            <Property id="DOCUMENT_CRDATETIME" value="636948036000000000" />
+            <Property id="DOCUMENT_LASTMODTIME" value="631583460000000000" />
+            <Property id="DOCUMENT_REVNUMBER" value="Revision_MDOC01" />
+            <Property id="DOCUMENT_SUBJECT" value="SUBJECT_MDOC01" />
+            <Property id="DOCUMENT_TITLE" value="TITLE_MDOC01" />
+            <Property id="DOCUMENT_TYPE" value="TYPE_MODC01" />
+            <Property id="MARKETDOCUMENT_PROCESS" value="0x00000002ffffffff" />
+            <Property id="MARKETDOCUMENT_REASON" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="MARKETDOCUMENT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="300000001_MD" />
+            <Property id="IDOBJ_NAME" value="MDOC02" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_MDOC02" />
+            <Property id="DOCUMENT_CRDATETIME" value="636632676000000000" />
+            <Property id="DOCUMENT_LASTMODTIME" value="631557540000000000" />
+            <Property id="DOCUMENT_REVNUMBER" value="Revision_MDOC02" />
+            <Property id="DOCUMENT_SUBJECT" value="SUBJECT_MDOC02" />
+            <Property id="DOCUMENT_TITLE" value="TITLE_MDOC02" />
+            <Property id="DOCUMENT_TYPE" value="TYPE_MODC02" />
+            <Property id="MARKETDOCUMENT_PROCESS" value="0x00000002ffffffff" />
+            <Property id="MARKETDOCUMENT_REASON" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="BIDTIMESERIES" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="400000000_BTS" />
+            <Property id="IDOBJ_NAME" value="BTS01" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_BTS01Alias_BTS02" />
+            <Property id="TIMESERIES_OBJAGGR" value="ObjAgg_TIM01" />
+            <Property id="TIMESERIES_PRODUCT" value="Product_TIM01" />
+            <Property id="TIMESERIES_VERSION" value="Version_TIM01" />
+            <Property id="TIMESERIES_REASON" value="0x00000001ffffffff" />
+            <Property id="TIMESERIES_MDOC" value="0x00000003ffffffff" />
+            <Property id="BIDTIMESERIES_BLOCKBID" value="1" />
+            <Property id="BIDTIMESERIES_DIRECTION" value="direction_BTS01" />
+            <Property id="BIDTIMESERIES_DIVISIBLE" value="1" />
+            <Property id="BIDTIMESERIES_LINKBIDID" value="linked_BTS02" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="BIDTIMESERIES" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="400000001_BTS" />
+            <Property id="IDOBJ_NAME" value="BTS02" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_BTS02" />
+            <Property id="TIMESERIES_OBJAGGR" value="ObjAgg_TIM02" />
+            <Property id="TIMESERIES_PRODUCT" value="Product_TIM02" />
+            <Property id="TIMESERIES_VERSION" value="Version_TIM02" />
+            <Property id="TIMESERIES_REASON" value="0x00000001ffffffff" />
+            <Property id="TIMESERIES_MDOC" value="0x00000003fffffffe" />
+            <Property id="BIDTIMESERIES_BLOCKBID" value="1" />
+            <Property id="BIDTIMESERIES_DIRECTION" value="direction_BTS02" />
+            <Property id="BIDTIMESERIES_DIVISIBLE" value="1" />
+            <Property id="BIDTIMESERIES_LINKBIDID" value="linked_BTS02" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="MEASUREMENTPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="500000000_MP" />
+            <Property id="IDOBJ_NAME" value="Name_MP_01" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_MP_01" />
+            <Property id="MEASUREMENTPOINT_TIMESR" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="MEASUREMENTPOINT" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="500000001_MP" />
+            <Property id="IDOBJ_NAME" value="Name_MP_02" />
+            <Property id="IDOBJ_ALIASNAME" value="Alias_MP_02" />
+            <Property id="MEASUREMENTPOINT_TIMESR" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

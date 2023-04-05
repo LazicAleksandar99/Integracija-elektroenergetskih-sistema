@@ -1,0 +1,487 @@
+8/15/2022 12:44:06 PM : Network Model Service Test Client is up and running...
+8/15/2022 12:44:06 PM : Result directory: ../Results
+8/15/2022 12:46:17 PM : Network Model Service Test Client is up and running...
+8/15/2022 12:46:17 PM : Result directory: ../Results
+8/15/2022 12:46:20 PM : Getting values of timeSeries that are connedted with highest id reason started.
+8/15/2022 12:46:20 PM : Getting extent values method started.
+8/15/2022 12:46:21 PM : Getting extent values method successfully finished.
+8/15/2022 12:46:21 PM : Getting extent values method started.
+8/15/2022 12:46:21 PM : Getting extent values method successfully finished.
+8/15/2022 12:46:21 PM : Getting values of timeSeries that are connedted with highest id reason successfully finished.
+8/15/2022 12:46:41 PM : Getting values of timeSeries that are connedted with highest id reason started.
+8/15/2022 12:46:44 PM : Getting extent values method started.
+8/15/2022 12:46:44 PM : Getting extent values method successfully finished.
+8/15/2022 12:46:54 PM : Getting extent values method started.
+8/15/2022 12:46:54 PM : Getting extent values method successfully finished.
+8/15/2022 12:50:17 PM : Network Model Service Test Client is up and running...
+8/15/2022 12:50:17 PM : Result directory: ../Results
+8/15/2022 12:50:19 PM : Getting values of timeSeries that are connedted with highest id reason started.
+8/15/2022 12:50:19 PM : Getting extent values method started.
+8/15/2022 12:50:20 PM : Getting extent values method successfully finished.
+8/15/2022 12:50:20 PM : Getting extent values method started.
+8/15/2022 12:50:20 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/15/2022 12:50:20 PM : Getting values method started.
+8/15/2022 12:50:20 PM : Getting values method for entered id = 21474836481 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/15/2022 5:14:02 PM : Network Model Service Test Client is up and running...
+8/15/2022 5:14:02 PM : Result directory: ../Results
+8/15/2022 5:31:39 PM : Network Model Service Test Client is up and running...
+8/15/2022 5:31:39 PM : Result directory: ../Results
+8/23/2022 11:25:49 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:25:49 AM : Result directory: ../Results
+8/23/2022 11:25:53 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:25:53 AM : Getting extent values method started.
+8/23/2022 11:25:54 AM : Getting extent values method successfully finished.
+8/23/2022 11:25:54 AM : Getting extent values method started.
+8/23/2022 11:25:54 AM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:25:54 AM : Getting values method started.
+8/23/2022 11:25:54 AM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:25:54 AM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/23/2022 11:26:35 AM : Getting values by id method started.
+8/23/2022 11:26:35 AM : Getting values by id method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:27:36 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:27:36 AM : Result directory: ../Results
+8/23/2022 11:27:38 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:27:41 AM : Getting extent values method started.
+8/23/2022 11:27:42 AM : Getting extent values method successfully finished.
+8/23/2022 11:27:55 AM : Getting extent values method started.
+8/23/2022 11:27:55 AM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:28:34 AM : Getting values method started.
+8/23/2022 11:28:34 AM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:30:15 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:30:15 AM : Result directory: ../Results
+8/23/2022 11:30:17 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:30:19 AM : Getting extent values method started.
+8/23/2022 11:30:20 AM : Getting extent values method successfully finished.
+8/23/2022 11:30:23 AM : Getting extent values method started.
+8/23/2022 11:30:23 AM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:30:32 AM : Getting values method started.
+8/23/2022 11:30:32 AM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:30:55 AM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/23/2022 11:32:08 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:32:08 AM : Result directory: ../Results
+8/23/2022 11:32:11 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:32:13 AM : Getting extent values method started.
+8/23/2022 11:32:13 AM : Getting extent values method successfully finished.
+8/23/2022 11:32:16 AM : Getting extent values method started.
+8/23/2022 11:32:16 AM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/23/2022 11:37:45 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:37:45 AM : Result directory: ../Results
+8/23/2022 11:37:47 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:37:47 AM : Getting extent values method started.
+8/23/2022 11:37:47 AM : Getting extent values method successfully finished.
+8/23/2022 11:37:47 AM : Getting extent values method started.
+8/23/2022 11:37:48 AM : Getting extent values method successfully finished.
+8/23/2022 11:37:48 AM : Getting extent values method started.
+8/23/2022 11:37:48 AM : Getting extent values method successfully finished.
+8/23/2022 11:39:02 AM : Network Model Service Test Client is up and running...
+8/23/2022 11:39:02 AM : Result directory: ../Results
+8/23/2022 11:39:04 AM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/23/2022 11:39:04 AM : Getting extent values method started.
+8/23/2022 11:39:05 AM : Getting extent values method successfully finished.
+8/23/2022 11:39:05 AM : Getting extent values method started.
+8/23/2022 11:39:05 AM : Getting extent values method successfully finished.
+8/23/2022 11:39:05 AM : Getting extent values method started.
+8/23/2022 11:39:05 AM : Getting extent values method successfully finished.
+8/24/2022 1:56:00 PM : Network Model Service Test Client is up and running...
+8/24/2022 1:56:00 PM : Result directory: ../Results
+8/24/2022 1:56:06 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 1:56:11 PM : Getting extent values method started.
+8/24/2022 1:56:11 PM : Getting extent values method successfully finished.
+8/24/2022 1:56:20 PM : Getting extent values method started.
+8/24/2022 1:56:21 PM : Getting extent values method successfully finished.
+8/24/2022 1:56:27 PM : Getting extent values method started.
+8/24/2022 1:56:27 PM : Getting extent values method successfully finished.
+8/24/2022 1:56:34 PM : Getting extent values method started.
+8/24/2022 1:56:34 PM : Getting extent values method successfully finished.
+8/24/2022 1:56:38 PM : Getting extent values method started.
+8/24/2022 1:56:38 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 1:56:48 PM : Getting values method started.
+8/24/2022 1:56:48 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 1:57:02 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 1:57:36 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 1:57:38 PM : Getting extent values method started.
+8/24/2022 1:57:39 PM : Getting extent values method successfully finished.
+8/24/2022 1:57:39 PM : Getting extent values method started.
+8/24/2022 1:57:39 PM : Getting extent values method successfully finished.
+8/24/2022 1:57:41 PM : Getting extent values method started.
+8/24/2022 1:57:41 PM : Getting extent values method successfully finished.
+8/24/2022 1:57:42 PM : Getting extent values method started.
+8/24/2022 1:57:42 PM : Getting extent values method successfully finished.
+8/24/2022 1:57:52 PM : Getting extent values method started.
+8/24/2022 2:00:40 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:00:40 PM : Getting values method started.
+8/24/2022 2:00:43 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:00:43 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:00:51 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:00:57 PM : Getting extent values method started.
+8/24/2022 2:00:57 PM : Getting extent values method successfully finished.
+8/24/2022 2:00:58 PM : Getting extent values method started.
+8/24/2022 2:00:58 PM : Getting extent values method successfully finished.
+8/24/2022 2:00:58 PM : Getting extent values method started.
+8/24/2022 2:00:59 PM : Getting extent values method successfully finished.
+8/24/2022 2:01:00 PM : Getting extent values method started.
+8/24/2022 2:01:00 PM : Getting extent values method successfully finished.
+8/24/2022 2:01:11 PM : Getting extent values method started.
+8/24/2022 2:02:31 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:02:31 PM : Getting values method started.
+8/24/2022 2:02:31 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:02:31 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:02:37 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:02:40 PM : Getting extent values method started.
+8/24/2022 2:02:40 PM : Getting extent values method successfully finished.
+8/24/2022 2:02:40 PM : Getting extent values method started.
+8/24/2022 2:02:41 PM : Getting extent values method successfully finished.
+8/24/2022 2:02:41 PM : Getting extent values method started.
+8/24/2022 2:02:42 PM : Getting extent values method successfully finished.
+8/24/2022 2:02:42 PM : Getting extent values method started.
+8/24/2022 2:02:42 PM : Getting extent values method successfully finished.
+8/24/2022 2:02:46 PM : Getting extent values method started.
+8/24/2022 2:03:44 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:04:09 PM : Getting values method started.
+8/24/2022 2:04:09 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:04:09 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:04:14 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:04:17 PM : Getting extent values method started.
+8/24/2022 2:04:17 PM : Getting extent values method successfully finished.
+8/24/2022 2:04:17 PM : Getting extent values method started.
+8/24/2022 2:04:18 PM : Getting extent values method successfully finished.
+8/24/2022 2:04:18 PM : Getting extent values method started.
+8/24/2022 2:04:19 PM : Getting extent values method successfully finished.
+8/24/2022 2:04:19 PM : Getting extent values method started.
+8/24/2022 2:04:19 PM : Getting extent values method successfully finished.
+8/24/2022 2:04:26 PM : Getting extent values method started.
+8/24/2022 2:06:29 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:06:29 PM : Getting values method started.
+8/24/2022 2:06:45 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:06:45 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:06:52 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:06:57 PM : Getting extent values method started.
+8/24/2022 2:13:15 PM : Getting extent values method successfully finished.
+8/24/2022 2:13:15 PM : Getting extent values method started.
+8/24/2022 2:14:10 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:10 PM : Getting extent values method started.
+8/24/2022 2:14:10 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:14 PM : Getting extent values method started.
+8/24/2022 2:14:14 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:19 PM : Getting extent values method started.
+8/24/2022 2:14:23 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:14:26 PM : Getting values method started.
+8/24/2022 2:14:26 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:14:26 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:14:34 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:14:36 PM : Getting extent values method started.
+8/24/2022 2:14:36 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:36 PM : Getting extent values method started.
+8/24/2022 2:14:36 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:36 PM : Getting extent values method started.
+8/24/2022 2:14:36 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:38 PM : Getting extent values method started.
+8/24/2022 2:14:38 PM : Getting extent values method successfully finished.
+8/24/2022 2:14:43 PM : Getting extent values method started.
+8/24/2022 2:14:46 PM : Getting extent values method failed for BIDTIMESERIES.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:14:47 PM : Getting values method started.
+8/24/2022 2:14:47 PM : Getting values method for entered id = 17179869185 failed.
+	Failed to export Resource Description as XML. Invalid property type.
+8/24/2022 2:14:47 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+8/24/2022 2:14:50 PM : Apply update method started.
+8/24/2022 2:14:52 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000007
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000007
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x000000030000000d
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x000000040000000d
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x000000050000000d
+
+8/24/2022 2:14:59 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:15:02 PM : Getting extent values method started.
+8/24/2022 2:15:02 PM : Getting extent values method successfully finished.
+8/24/2022 2:15:03 PM : Getting extent values method started.
+8/24/2022 2:15:03 PM : Getting extent values method successfully finished.
+8/24/2022 2:15:04 PM : Getting extent values method started.
+8/24/2022 2:15:04 PM : Getting extent values method successfully finished.
+8/24/2022 2:15:04 PM : Getting extent values method started.
+8/24/2022 2:15:04 PM : Getting extent values method successfully finished.
+8/24/2022 2:15:08 PM : Getting extent values method started.
+8/24/2022 2:20:31 PM : Network Model Service Test Client is up and running...
+8/24/2022 2:20:31 PM : Result directory: ../Results
+8/24/2022 2:20:36 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:20:41 PM : Getting extent values method started.
+8/24/2022 2:20:42 PM : Getting extent values method successfully finished.
+8/24/2022 2:20:43 PM : Getting extent values method started.
+8/24/2022 2:20:44 PM : Getting extent values method successfully finished.
+8/24/2022 2:20:44 PM : Getting extent values method started.
+8/24/2022 2:20:44 PM : Getting extent values method successfully finished.
+8/24/2022 2:20:45 PM : Getting extent values method started.
+8/24/2022 2:20:45 PM : Getting extent values method successfully finished.
+8/24/2022 2:20:58 PM : Getting extent values method started.
+8/24/2022 2:20:59 PM : Getting extent values method successfully finished.
+8/24/2022 2:21:57 PM : Getting values method started.
+8/24/2022 2:21:57 PM : Getting values method successfully finished.
+8/24/2022 2:21:57 PM : GetValuesOfBidTimeSeriesConnectedWithHighesReasonId failed. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+8/24/2022 2:23:14 PM : Network Model Service Test Client is up and running...
+8/24/2022 2:23:14 PM : Result directory: ../Results
+8/24/2022 2:23:18 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:23:23 PM : Getting extent values method started.
+8/24/2022 2:23:23 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:27 PM : Getting extent values method started.
+8/24/2022 2:23:27 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:29 PM : Getting extent values method started.
+8/24/2022 2:23:30 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:32 PM : Getting extent values method started.
+8/24/2022 2:23:32 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:35 PM : Getting extent values method started.
+8/24/2022 2:23:35 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:37 PM : Getting values method started.
+8/24/2022 2:23:37 PM : Getting values method successfully finished.
+8/24/2022 2:23:37 PM : GetValuesOfBidTimeSeriesConnectedWithHighesReasonId failed. Index (zero based) must be greater than or equal to zero and less than the size of the argument list.
+8/24/2022 2:23:49 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+8/24/2022 2:23:53 PM : Getting extent values method started.
+8/24/2022 2:23:53 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:53 PM : Getting extent values method started.
+8/24/2022 2:23:53 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:54 PM : Getting extent values method started.
+8/24/2022 2:23:54 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:54 PM : Getting extent values method started.
+8/24/2022 2:23:54 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:55 PM : Getting extent values method started.
+8/24/2022 2:23:55 PM : Getting extent values method successfully finished.
+8/24/2022 2:23:59 PM : Getting values method started.
+8/24/2022 2:23:59 PM : Getting values method successfully finished.
+8/24/2022 2:25:41 PM : Getting values method started.
+8/24/2022 2:25:41 PM : Getting values method successfully finished.
+8/24/2022 2:25:41 PM : Getting values by id method started.
+8/24/2022 2:25:41 PM : 	BIDTIMESERIES ID = 17179869185
+	BIDTIMESERIES_BLOCKBID = true
+	BIDTIMESERIES_DIRECTION = direction_BTS01
+	BIDTIMESERIES_DIVISIBLE = true
+	BIDTIMESERIES_LINKBIDID = linked_BTS02
+	IDOBJ_GID = 17179869185
+	IDOBJ_ALIASNAME = Alias_BTS01Alias_BTS02
+	IDOBJ_MRID = 400000000_BTS
+	IDOBJ_NAME = BTS01
+	TIMESERIES_OBJAGGR = ObjAgg_TIM01
+	TIMESERIES_PRODUCT = Product_TIM01
+	TIMESERIES_VERSION = Version_TIM01
+	TIMESERIES_MDOC = 12884901889
+	TIMESERIES_MPOINT = 1
+	TIMESERIES_REASON = 4294967297
+
+8/24/2022 2:25:41 PM : Getting values by id method started.
+8/24/2022 2:25:41 PM : 	BIDTIMESERIES ID = 17179869186
+	BIDTIMESERIES_BLOCKBID = true
+	BIDTIMESERIES_DIRECTION = direction_BTS02
+	BIDTIMESERIES_DIVISIBLE = true
+	BIDTIMESERIES_LINKBIDID = linked_BTS02
+	IDOBJ_GID = 17179869186
+	IDOBJ_ALIASNAME = Alias_BTS02
+	IDOBJ_MRID = 400000001_BTS
+	IDOBJ_NAME = BTS02
+	TIMESERIES_OBJAGGR = ObjAgg_TIM02
+	TIMESERIES_PRODUCT = Product_TIM02
+	TIMESERIES_VERSION = Version_TIM02
+	TIMESERIES_MDOC = 12884901890
+	TIMESERIES_MPOINT = 1
+	TIMESERIES_REASON = 4294967297
+
+8/24/2022 2:25:41 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+9/5/2022 9:25:26 PM : Network Model Service Test Client is up and running...
+9/5/2022 9:25:26 PM : Result directory: ../Results
+9/5/2022 9:25:50 PM : Getting values of bidTimeSeries that are connedted with highest id reason started.
+9/5/2022 9:25:50 PM : Getting extent values method started.
+9/5/2022 9:25:51 PM : Getting extent values method successfully finished.
+9/5/2022 9:25:51 PM : Getting extent values method started.
+9/5/2022 9:25:51 PM : Getting extent values method successfully finished.
+9/5/2022 9:25:51 PM : Getting values method started.
+9/5/2022 9:27:25 PM : Getting values method successfully finished.
+9/5/2022 9:27:25 PM : Getting values method started.
+9/5/2022 9:28:03 PM : Getting values method successfully finished.
+9/5/2022 9:28:03 PM : Getting values by id method started.
+9/5/2022 9:28:04 PM : 	BIDTIMESERIES ID = 17179869185
+	BIDTIMESERIES_BLOCKBID = true
+	BIDTIMESERIES_DIRECTION = direction_BTS01
+	BIDTIMESERIES_DIVISIBLE = true
+	BIDTIMESERIES_LINKBIDID = linked_BTS02
+	IDOBJ_GID = 17179869185
+	IDOBJ_ALIASNAME = Alias_BTS01Alias_BTS02
+	IDOBJ_MRID = 400000000_BTS
+	IDOBJ_NAME = BTS01
+	TIMESERIES_OBJAGGR = ObjAgg_TIM01
+	TIMESERIES_PRODUCT = Product_TIM01
+	TIMESERIES_VERSION = Version_TIM01
+	TIMESERIES_MDOC = 12884901889
+	TIMESERIES_MPOINT = 1
+	TIMESERIES_REASON = 4294967297
+
+9/5/2022 9:28:04 PM : Getting values by id method started.
+9/5/2022 9:28:04 PM : 	BIDTIMESERIES ID = 17179869186
+	BIDTIMESERIES_BLOCKBID = true
+	BIDTIMESERIES_DIRECTION = direction_BTS02
+	BIDTIMESERIES_DIVISIBLE = true
+	BIDTIMESERIES_LINKBIDID = linked_BTS02
+	IDOBJ_GID = 17179869186
+	IDOBJ_ALIASNAME = Alias_BTS02
+	IDOBJ_MRID = 400000001_BTS
+	IDOBJ_NAME = BTS02
+	TIMESERIES_OBJAGGR = ObjAgg_TIM02
+	TIMESERIES_PRODUCT = Product_TIM02
+	TIMESERIES_VERSION = Version_TIM02
+	TIMESERIES_MDOC = 12884901890
+	TIMESERIES_MPOINT = 1
+	TIMESERIES_REASON = 4294967297
+
+9/5/2022 9:28:04 PM : Getting values of bidTimeSeries that are connedted with highest id reason successfully finished.
+9/5/2022 9:31:18 PM : Network Model Service Test Client is up and running...
+9/5/2022 9:31:18 PM : Result directory: ../Results
+9/5/2022 9:31:45 PM : Getting extent values method started.
+9/5/2022 9:34:28 PM : Getting extent values method successfully finished.
+9/5/2022 9:34:41 PM : Getting extent values method started.
+9/5/2022 9:35:57 PM : Getting extent values method successfully finished.
+9/5/2022 10:11:56 PM : Network Model Service Test Client is up and running...
+9/5/2022 10:11:56 PM : Result directory: ../Results
+9/5/2022 10:12:01 PM : Printing all IDs for models has started.
+9/5/2022 10:12:01 PM : Getting extent values method started.
+9/5/2022 10:12:01 PM : Getting extent values method successfully finished.
+9/5/2022 10:12:01 PM : Getting extent values method started.
+9/5/2022 10:12:01 PM : Getting extent values method successfully finished.
+9/5/2022 10:12:01 PM : Getting extent values method started.
+9/5/2022 10:12:01 PM : Getting extent values method successfully finished.
+9/5/2022 10:12:01 PM : Getting extent values method started.
+9/5/2022 10:12:01 PM : Getting extent values method successfully finished.
+9/5/2022 10:12:01 PM : Getting extent values method started.
+9/5/2022 10:12:02 PM : Getting extent values method successfully finished.
+9/5/2022 10:12:02 PM : PrintAllIdesByModels successfully finished.
+9/5/2022 10:15:02 PM : Network Model Service Test Client is up and running...
+9/5/2022 10:15:02 PM : Result directory: ../Results
+9/5/2022 10:15:06 PM : Printing all IDs for models has started.
+9/5/2022 10:15:06 PM : Getting extent values method started.
+9/5/2022 10:15:07 PM : Getting extent values method successfully finished.
+9/5/2022 10:15:07 PM : Getting extent values method started.
+9/5/2022 10:15:07 PM : Getting extent values method successfully finished.
+9/5/2022 10:15:07 PM : Getting extent values method started.
+9/5/2022 10:15:07 PM : Getting extent values method successfully finished.
+9/5/2022 10:15:07 PM : Getting extent values method started.
+9/5/2022 10:15:07 PM : Getting extent values method successfully finished.
+9/5/2022 10:15:07 PM : Getting extent values method started.
+9/5/2022 10:15:07 PM : Getting extent values method successfully finished.
+9/5/2022 10:15:07 PM : PrintAllIdesByModels successfully finished.
+9/5/2022 10:33:16 PM : Network Model Service Test Client is up and running...
+9/5/2022 10:33:16 PM : Result directory: ../Results
+9/5/2022 10:33:18 PM : GetExtendValuesForAllModels started.
+9/5/2022 10:33:18 PM : Getting extent values method started.
+9/5/2022 10:33:19 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting extent values method started.
+9/5/2022 10:33:19 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting extent values method started.
+9/5/2022 10:33:19 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting extent values method started.
+9/5/2022 10:33:19 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting extent values method started.
+9/5/2022 10:33:19 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : Getting values method started.
+9/5/2022 10:33:19 PM : Getting values method successfully finished.
+9/5/2022 10:33:19 PM : GetExtendValuesForAllModels successfully finished.
+9/5/2022 10:33:45 PM : Printing all IDs for models has started.
+9/5/2022 10:33:45 PM : Getting extent values method started.
+9/5/2022 10:33:45 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:45 PM : Getting extent values method started.
+9/5/2022 10:33:45 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:45 PM : Getting extent values method started.
+9/5/2022 10:33:45 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:45 PM : Getting extent values method started.
+9/5/2022 10:33:45 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:45 PM : Getting extent values method started.
+9/5/2022 10:33:46 PM : Getting extent values method successfully finished.
+9/5/2022 10:33:46 PM : PrintAllIdesByModels successfully finished.
+9/5/2022 10:34:35 PM : Network Model Service Test Client is up and running...
+9/5/2022 10:34:35 PM : Result directory: ../Results
+9/5/2022 10:34:39 PM : Printing all IDs for models has started.
+9/5/2022 10:34:39 PM : Getting extent values method started.
+9/5/2022 10:34:40 PM : Getting extent values method successfully finished.
+9/5/2022 10:34:40 PM : Getting extent values method started.
+9/5/2022 10:34:40 PM : Getting extent values method successfully finished.
+9/5/2022 10:34:40 PM : Getting extent values method started.
+9/5/2022 10:34:40 PM : Getting extent values method successfully finished.
+9/5/2022 10:34:40 PM : Getting extent values method started.
+9/5/2022 10:34:40 PM : Getting extent values method successfully finished.
+9/5/2022 10:34:40 PM : Getting extent values method started.
+9/5/2022 10:34:40 PM : Getting extent values method successfully finished.
+9/5/2022 10:34:40 PM : PrintAllIdesByModels successfully finished.
+9/6/2022 10:35:51 AM : Network Model Service Test Client is up and running...
+9/6/2022 10:35:51 AM : Result directory: ../Results
+9/6/2022 10:36:03 AM : Printing all IDs for models has started.
+9/6/2022 10:36:03 AM : Getting extent values method started.
+9/6/2022 10:36:03 AM : Getting extent values method successfully finished.
+9/6/2022 10:36:03 AM : Getting extent values method started.
+9/6/2022 10:36:03 AM : Getting extent values method successfully finished.
+9/6/2022 10:36:03 AM : Getting extent values method started.
+9/6/2022 10:36:03 AM : Getting extent values method successfully finished.
+9/6/2022 10:36:03 AM : Getting extent values method started.
+9/6/2022 10:36:04 AM : Getting extent values method successfully finished.
+9/6/2022 10:36:04 AM : Getting extent values method started.
+9/6/2022 10:36:04 AM : Getting extent values method successfully finished.
+9/6/2022 10:36:04 AM : PrintAllIdesByModels successfully finished.
+9/6/2022 10:36:18 AM : Getting values by id method started.
+9/6/2022 10:36:18 AM : 	MEASUREMENTPOINT ID = 21474836481
+	MEASUREMENTPOINT_TIMESR = 17179869185
+	IDOBJ_GID = 21474836481
+	IDOBJ_ALIASNAME = Alias_MP_01
+	IDOBJ_MRID = 500000000_MP
+	IDOBJ_NAME = Name_MP_01
+
+9/6/2022 11:35:11 AM : Network Model Service Test Client is up and running...
+9/6/2022 11:35:11 AM : Result directory: ../Results
+9/6/2022 11:36:39 AM : Printing all IDs for models has started.
+9/6/2022 11:36:39 AM : Getting extent values method started.
+9/6/2022 11:36:40 AM : Getting extent values method successfully finished.
+9/6/2022 11:36:40 AM : Getting extent values method started.
+9/6/2022 11:36:40 AM : Getting extent values method successfully finished.
+9/6/2022 11:36:40 AM : Getting extent values method started.
+9/6/2022 11:36:40 AM : Getting extent values method successfully finished.
+9/6/2022 11:36:40 AM : Getting extent values method started.
+9/6/2022 11:36:40 AM : Getting extent values method successfully finished.
+9/6/2022 11:36:40 AM : Getting extent values method started.
+9/6/2022 11:36:41 AM : Getting extent values method successfully finished.
+9/6/2022 11:36:41 AM : PrintAllIdesByModels successfully finished.
+9/6/2022 11:36:51 AM : Getting values method started.
+9/6/2022 11:36:51 AM : Getting values method successfully finished.
+9/6/2022 11:37:48 AM : Getting extent values method started.
+9/6/2022 11:37:48 AM : Getting extent values method successfully finished.

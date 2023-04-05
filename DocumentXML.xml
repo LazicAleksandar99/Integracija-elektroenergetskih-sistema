@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#"
+	xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+  <cim:Process rdf:ID="100000000_PR">
+    <cim:Process.classificationType>CL_Type_PR01</cim:Process.classificationType>
+    <cim:Process.processType>PR_Type_PR01</cim:Process.processType>
+    <cim:IdentifiedObject.aliasName>Alias_PR01</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>100000000_PR</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Process01</cim:IdentifiedObject.name>
+  </cim:Process>
+  <cim:Reason rdf:ID="200000000_RS">
+    <cim:Reason.code>CODE_RS01</cim:Reason.code>
+    <cim:Reason.text>TEXT_RS01</cim:Reason.text>
+    <cim:IdentifiedObject.aliasName>Alias_RS01</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>200000000_RS</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Reason01</cim:IdentifiedObject.name>
+  </cim:Reason>
+  <cim:MarketDocument rdf:ID="300000000_MD">
+    <cim:MarketDocument.Process rdf:resource="100000000_PR"/>
+    <cim:MarketDocument.Reason rdf:resource="200000000_RS"/>
+    <cim:Document.createdDateTime>2019-05-30T09:00:00</cim:Document.createdDateTime>
+    <cim:Document.lastModifiedDateTime>2002-05-30T09:00:00</cim:Document.lastModifiedDateTime>
+    <cim:Document.revisionNumber>Revision_MDOC01</cim:Document.revisionNumber>
+    <cim:Document.subject>SUBJECT_MDOC01</cim:Document.subject>
+    <cim:Document.title>TITLE_MDOC01</cim:Document.title>
+    <cim:Document.type>TYPE_MODC01</cim:Document.type>
+    <cim:IdentifiedObject.aliasName>Alias_MDOC01</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>300000000_MD</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>MDOC01</cim:IdentifiedObject.name>
+  </cim:MarketDocument>
+  <cim:MarketDocument rdf:ID="300000001_MD">
+    <cim:MarketDocument.Process rdf:resource="100000000_PR"/>
+    <cim:MarketDocument.Reason rdf:resource="200000000_RS"/>
+    <cim:Document.createdDateTime>2018-05-30T09:00:00</cim:Document.createdDateTime>
+    <cim:Document.lastModifiedDateTime>2002-04-30T09:00:00</cim:Document.lastModifiedDateTime>
+    <cim:Document.revisionNumber>Revision_MDOC02</cim:Document.revisionNumber>
+    <cim:Document.subject>SUBJECT_MDOC02</cim:Document.subject>
+    <cim:Document.title>TITLE_MDOC02</cim:Document.title>
+    <cim:Document.type>TYPE_MODC02</cim:Document.type>
+    <cim:IdentifiedObject.aliasName>Alias_MDOC02</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>300000001_MD</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>MDOC02</cim:IdentifiedObject.name>
+  </cim:MarketDocument>
+  <cim:BidTimeSeries rdf:ID="400000000_BTS">
+    <cim:BidTimeSeries.blockBid>True</cim:BidTimeSeries.blockBid>
+    <cim:BidTimeSeries.direction>direction_BTS01</cim:BidTimeSeries.direction>
+    <cim:BidTimeSeries.divisible>True</cim:BidTimeSeries.divisible>
+    <cim:BidTimeSeries.linkedBidsIdentification>linked_BTS02</cim:BidTimeSeries.linkedBidsIdentification>
+    <cim:TimeSeries.MarketDocument rdf:resource="300000000_MD"/>
+    <cim:TimeSeries.objectAggregation>ObjAgg_TIM01</cim:TimeSeries.objectAggregation>
+    <cim:TimeSeries.product>Product_TIM01</cim:TimeSeries.product>
+    <cim:TimeSeries.Reason rdf:resource="200000000_RS"/>
+    <cim:TimeSeries.version>Version_TIM01</cim:TimeSeries.version>
+    <cim:IdentifiedObject.aliasName>Alias_BTS01Alias_BTS02</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>400000000_BTS</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>BTS01</cim:IdentifiedObject.name>
+  </cim:BidTimeSeries>
+  <cim:BidTimeSeries rdf:ID="400000001_BTS">
+    <cim:BidTimeSeries.blockBid>True</cim:BidTimeSeries.blockBid>
+    <cim:BidTimeSeries.direction>direction_BTS02</cim:BidTimeSeries.direction>
+    <cim:BidTimeSeries.divisible>True</cim:BidTimeSeries.divisible>
+    <cim:BidTimeSeries.linkedBidsIdentification>linked_BTS02</cim:BidTimeSeries.linkedBidsIdentification>
+    <cim:TimeSeries.MarketDocument rdf:resource="300000001_MD"/>
+    <cim:TimeSeries.objectAggregation>ObjAgg_TIM02</cim:TimeSeries.objectAggregation>
+    <cim:TimeSeries.product>Product_TIM02</cim:TimeSeries.product>
+    <cim:TimeSeries.Reason rdf:resource="200000000_RS"/>
+    <cim:TimeSeries.version>Version_TIM02</cim:TimeSeries.version>
+    <cim:IdentifiedObject.aliasName>Alias_BTS02</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>400000001_BTS</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>BTS02</cim:IdentifiedObject.name>
+  </cim:BidTimeSeries>
+  <cim:MeasurementPoint rdf:ID="500000000_MP">
+    <cim:MeasurementPoint.TimeSeries rdf:resource="400000000_BTS"/>
+    <cim:IdentifiedObject.aliasName>Alias_MP_01</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>500000000_MP</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Name_MP_01</cim:IdentifiedObject.name>
+  </cim:MeasurementPoint>
+  <cim:MeasurementPoint rdf:ID="500000001_MP">
+    <cim:MeasurementPoint.TimeSeries rdf:resource="400000001_BTS"/>
+    <cim:IdentifiedObject.aliasName>Alias_MP_02</cim:IdentifiedObject.aliasName>
+    <cim:IdentifiedObject.mRID>500000001_MP</cim:IdentifiedObject.mRID>
+    <cim:IdentifiedObject.name>Name_MP_02</cim:IdentifiedObject.name>
+  </cim:MeasurementPoint>
+</rdf:RDF>

@@ -1,0 +1,11 @@
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\CreatingExampleModelsXML.exe.config
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\CreatingExampleModelsXML.exe
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\CreatingExampleModelsXML.pdb
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\FTN.Common.dll
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\FTN.Common.pdb
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\obj\Debug\CreatingExampleModelsXML.csproj.AssemblyReference.cache
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\obj\Debug\CreatingExampleModelsXML.csproj.CoreCompileInputs.cache
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\obj\Debug\CreatingExampleModelsXML.csproj.CopyComplete
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\obj\Debug\CreatingExampleModelsXML.exe
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\obj\Debug\CreatingExampleModelsXML.pdb
+C:\Users\acopr\Desktop\IES_PROJECT\ModelLabsProjekat\ModelLabs\CreatingExampleModelsXML\bin\Debug\DOCCIMProfile_Labs.dll
